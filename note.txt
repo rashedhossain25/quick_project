@@ -1,0 +1,37 @@
+project color code HEX...
+
+n blue-#0F2656
+sky blue-#008AFF
+
+
+html css-reusable block-
+css code hei....
+
+
+
+first-child
+last-child
+nth-child()
+
+
+
+
+font-family-Free or Premimum
+font-size
+font-weight
+    300
+    400
+    500
+    600
+    700
+    900
+
+color
+text-transfrom
+line-height
+letter-spacing
+word-spacing
+
+ui ux
+
+color com...
