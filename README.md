@@ -1,2 +1,1 @@
-# quick_project
-my 1st project
+https://rashedhossain25.github.io/quick_project/
