@@ -100,7 +100,9 @@ header{
 
 /*banner end*/
 /*success start*/
-.success{}
+.success{
+	font-family: sans-serif;
+}
 .s_content{
 	overflow: hidden;
 	margin-top: 30px;
@@ -183,18 +185,20 @@ header{
 }
 /*feature end*/
 /*fotter start*/
-.footer {
+.footer{
 	font-family: sans-serif;
 	height: 100px;
-	color: #3CB0FF;
-    background-color: #008aff;
+	color: #8ED1FF;
+    background-color: #008Aff;
     margin-top: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-#letter{
-	color: white;
+.branding{
+	color: #F6FFFF;
+	text-decoration: none;
+	word-spacing: 1px;
 	letter-spacing: 4px;
 }
 /*fotter end*/
