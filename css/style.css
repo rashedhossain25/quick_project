@@ -47,6 +47,9 @@ header{
 	display: inline-block;
 
 }
+.menu ul li a:hover{
+	color: #008AFF;
+}
 .menu ul li:last-child a{
 	margin-right: 0;	
 }
