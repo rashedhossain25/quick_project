@@ -187,13 +187,13 @@ header{
 /*fotter start*/
 .footer{
 	font-family: sans-serif;
-	height: 100px;
-	color: #8ED1FF;
-    background-color: #008Aff;
-    margin-top: 70px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+        height: 100px;
+        color: #8ED1FF;
+        background-color: #008Aff;
+        margin-top: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
 }
 .branding{
 	color: #F6FFFF;
